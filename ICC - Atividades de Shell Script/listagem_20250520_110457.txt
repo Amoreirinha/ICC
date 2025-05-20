@@ -1,0 +1,38 @@
+total 144
+drwx------ 24 2025.1.08.014 Domain Users 4096 mai 20 11:04 .
+drwxr-xr-x 70 root          root         4096 abr 29 10:02 ..
+drwx------ 32 2025.1.08.014 Domain Users 4096 abr 24 09:17 AED_s Prática
+drwxr-xr-x  4 2025.1.08.014 Domain Users 4096 mai 13 11:29 Amoreirinha.github.io
+-rw-------  1 2025.1.08.014 Domain Users 1432 mai 20 10:35 .bash_history
+-rw-------  1 2025.1.08.014 Domain Users  220 abr 14 10:07 .bash_logout
+-rw-------  1 2025.1.08.014 Domain Users 3771 abr 14 10:07 .bashrc
+drwx------ 20 2025.1.08.014 Domain Users 4096 mai  5 10:15 .cache
+drwxr-xr-x 44 2025.1.08.014 Domain Users 4096 mai 16 09:53 C-Exerc-cios
+drwx------ 20 2025.1.08.014 Domain Users 4096 mai 13 11:14 .config
+drwxr-xr-x  2 2025.1.08.014 Domain Users 4096 abr 14 10:08 Desktop
+drwxr-xr-x  2 2025.1.08.014 Domain Users 4096 abr 14 10:08 Documents
+drwxr-xr-x  3 2025.1.08.014 Domain Users 4096 mai  5 10:13 .dotnet
+drwxr-xr-x  3 2025.1.08.014 Domain Users 4096 mai 13 13:31 Downloads
+-rw-r--r--  1 2025.1.08.014 Domain Users   58 mai 13 10:45 .gitconfig
+-rw-r--r--  1 2025.1.08.014 Domain Users   41 mai 13 11:42 GitHub Tolken
+drwxr-xr-x  3 2025.1.08.014 Domain Users 4096 abr 16 12:17 .java
+-rw-r--r--  1 2025.1.08.014 Domain Users 2456 mai 20 11:04 listagem_20250520_110437.txt
+-rw-r--r--  1 2025.1.08.014 Domain Users 2544 mai 20 11:04 listagem_20250520_110453.txt
+-rw-r--r--  1 2025.1.08.014 Domain Users    0 mai 20 11:04 listagem_20250520_110457.txt
+drwx------  3 2025.1.08.014 Domain Users 4096 abr 14 10:08 .local
+drwxr-xr-x  2 2025.1.08.014 Domain Users 4096 abr 14 10:08 Music
+drwxr-xr-x  3 2025.1.08.014 Domain Users 4096 abr 16 12:17 .netbeans
+drwxr-xr-x 15 2025.1.08.014 Domain Users 4096 mai 16 08:15 NetBeansProjects
+drwxr-xr-x  4 2025.1.08.014 Domain Users 4096 mai 13 10:34 Pictures
+drwx------  3 2025.1.08.014 Domain Users 4096 mai  5 10:12 .pki
+-rw-------  1 2025.1.08.014 Domain Users  807 abr 14 10:07 .profile
+drwxr-xr-x  2 2025.1.08.014 Domain Users 4096 abr 14 10:08 Public
+-rwxr-xr-x  1 2025.1.08.014 Domain Users  115 mai 20 10:26 script1.sh
+drwxr-xr-x  2 2025.1.08.014 Domain Users 4096 mai  5 11:00 Site aula
+drwx------  5 2025.1.08.014 Domain Users 4096 mai  5 10:12 snap
+drwxr-xr-x  2 2025.1.08.014 Domain Users 4096 abr 14 10:08 Templates
+-rwxr-xr-x  1 2025.1.08.014 Domain Users  518 mai 20 11:00 testecrases.sh
+-rwxr-xr-x  1 2025.1.08.014 Domain Users  265 mai 20 10:44 testevariaveisambiente.sh
+-rwxr-xr-x  1 2025.1.08.014 Domain Users  180 mai 20 10:36 testevariaveis.sh
+drwxr-xr-x  2 2025.1.08.014 Domain Users 4096 abr 14 10:08 Videos
+drwxr-xr-x  4 2025.1.08.014 Domain Users 4096 mai  5 10:12 .vscode

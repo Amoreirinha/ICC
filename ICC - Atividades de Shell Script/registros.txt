@@ -1,0 +1,12 @@
+----- Início do Registro -----
+ter 20 mai 2025 11:24:34 -03
+Usuário: 2025.1.08.014
+ 11:24:34 up 14 min,  1 user,  load average: 0,47, 0,40, 0,26
+----- Início do Registro -----
+ter 20 mai 2025 11:24:39 -03
+Usuário: 2025.1.08.014
+ 11:24:39 up 14 min,  1 user,  load average: 0,51, 0,41, 0,26
+----- Início do Registro -----
+ter 20 mai 2025 11:24:46 -03
+Usuário: 2025.1.08.014
+ 11:24:46 up 14 min,  1 user,  load average: 0,47, 0,40, 0,26
